@@ -1,6 +1,7 @@
 ## ¡Hola! Soy Matias Uriel Blanco 👋
 
-![Banner para Linkedin Portada Minimalista Negro (3)](https://github.com/user-attachments/assets/c929fd13-7c08-45b3-940a-1cfec254e77d)
+![Banner para Linkedin Portada Minimalista Negro (4)](https://github.com/user-attachments/assets/39c2cf88-0d4e-4dc1-acbd-a99e0966e0e0)
+
 
 <p align="center">
  <a href="https://www.linkedin.com/in/matiasurielblanco"><img src="https://img.shields.io/badge/-Matias%20Uriel%20Blanco-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
