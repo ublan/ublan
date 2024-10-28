@@ -44,12 +44,11 @@ Soy **Desarrollador Backend** con experiencia en el diseño y desarrollo de apli
 </p>
 
 ## Educación | Certificados
-<p>
-<a> **Tecnicatura Universitaria en Programación** | Universidad Tecnológica Nacional | 2023- Actualidad </a>
-</p>
-<p>
- <a> **Curso Profesional de Spring Boot** | ATL Academy | 2024- Actualidad </a>
-</p>
+
+ **Tecnicatura Universitaria en Programación** | Universidad Tecnológica Nacional | 2023- Actualidad 
+ 
+ **Curso Profesional de Spring Boot** | ATL Academy | 2024- Actualidad
+
 
 
 ![Certification - Examen de Certificación en Springboot](https://github.com/user-attachments/assets/818dd211-7afb-4923-94d5-f1c6cd39a7f1)
