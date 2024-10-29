@@ -44,18 +44,45 @@ Soy **Desarrollador Backend** con experiencia en el diseño y desarrollo de apli
 </p>
 
 ## Educación | Certificados
+<br>
 
- **Tecnicatura Universitaria en Programación** | Universidad Tecnológica Nacional | 2023- Actualidad 
+<h3 align="center"><strong>Tecnicatura Universitaria en Programación </strong> | Universidad Tecnológica Nacional | 2023 - Actualidad  </h3>
+ 
+<br>
 
- **Oracle SQL** | myGreatLearning | 2024
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Curso Profesional de Spring Boot | ATL Academy </h3>
+<div align="center">
+<a href="" target="_blank"><img src="https://github.com/user-attachments/assets/818dd211-7afb-4923-94d5-f1c6cd39a7f1" width="400" alt="Curso básico android"></a>
+<br>
+ <img src="https://img.shields.io/badge/Java-orange" />
+ <img src="https://img.shields.io/badge/Spring Boot-greeg" />
+ <img src="https://img.shields.io/badge/Hibernate-blue" />
+ <img src="https://img.shields.io/badge/Tomcat-red" />
+ <img src="https://img.shields.io/badge/REST API-red" />
+ <img src="https://img.shields.io/badge/Maven-red" />
+<p>
+Certificado en Spring Framework y Spring Boot que abarca los fundamentos esenciales del marco de trabajo, la configuración de proyectos y el desarrollo de aplicaciones web. Incluye la implementación de servicios RESTful, el uso de Spring Data JPA para la gestión de bases de datos y la seguridad en aplicaciones Spring Boot. Además, se abordan aspectos de despliegue y gestión de aplicaciones.</p>
+</div>
+                                                                                      
+</td>
 
-![Oracle SQL](https://github.com/user-attachments/assets/11827967-c85d-481d-9005-22b21aeae129)
+<td width="50%">
+               <br>
+<h3 align="center">Curso Oracle SQL | myGreatLearning </h3>
+<div align="center">                                       
+<a href="" target="_blank"><img src="https://github.com/user-attachments/assets/11827967-c85d-481d-9005-22b21aeae129" width="400" alt=""></a>
+<br>
+<img src="https://img.shields.io/badge/SQL-yellow" />
+<img src="https://img.shields.io/badge/Oracle-orange" />
 
- **Curso Profesional de Spring Boot** | ATL Academy | 2024- Actualidad
-
-![Certification - Examen de Certificación en Springboot](https://github.com/user-attachments/assets/818dd211-7afb-4923-94d5-f1c6cd39a7f1)
-
-
+<p>Este curso ofrece una visión general sobre los sistemas de gestión de bases de datos, incluyendo la creación de tablas y la instalación y configuración de Oracle. Se exploran temas como el modelo relacional, operadores como palabras clave, funciones, cláusulas y consultas anidadas. También se abordan las uniones, comandos SQL, objetos de base de datos y se proporciona un resumen general para consolidar los conocimientos adquiridos.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 <!--
 **ublan/ublan** is![Uploading Banner para Linkedin Portada Minimalista Negro (1).png…]()
  a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
