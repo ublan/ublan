@@ -46,10 +46,12 @@ Soy **Desarrollador Backend** con experiencia en el diseño y desarrollo de apli
 ## Educación | Certificados
 
  **Tecnicatura Universitaria en Programación** | Universidad Tecnológica Nacional | 2023- Actualidad 
- 
+
+ **Oracle SQL** | myGreatLearning | 2024
+
+![Oracle SQL](https://github.com/user-attachments/assets/11827967-c85d-481d-9005-22b21aeae129)
+
  **Curso Profesional de Spring Boot** | ATL Academy | 2024- Actualidad
-
-
 
 ![Certification - Examen de Certificación en Springboot](https://github.com/user-attachments/assets/818dd211-7afb-4923-94d5-f1c6cd39a7f1)
 
