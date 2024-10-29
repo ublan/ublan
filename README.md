@@ -39,8 +39,9 @@ Soy **Desarrollador Backend** con experiencia en el diseño y desarrollo de apli
 
 ### 📊 &nbsp;Bases de Datos
 <p align="center">
+ <img src="https://img.shields.io/badge/Oracle-orange" />
  <img src="https://img.shields.io/badge/MySQL-yellow" />
-  <img src="https://img.shields.io/badge/SQL-yellow" /> 
+ <img src="https://img.shields.io/badge/SQL-yellow" /> 
 </p>
 
 ## Educación | Certificados
